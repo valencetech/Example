@@ -77,7 +77,7 @@ public class Rectangle {
 
     // four constructors
     public Rectangle() {
-	origin = new Point(1, 1);
+	origin = new Point(5,5);
     }
     public Rectangle(Point p) {
 	origin = p;
